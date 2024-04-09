@@ -14,13 +14,13 @@ const Footer: React.FC = () => {
         {
           key: 'HL接口',
           title: 'HL接口',
-          href: 'https://github.com/HLLLG',
+          href: 'https://github.com/hlllg',
           blankTarget: true,
         },
         {
           key: 'github',
-          title: <GithubOutlined HLLLG/>,
-          href: 'https://github.com/HLLLG',
+          title: <GithubOutlined/>,
+          href: 'https://github.com/hlllg',
           blankTarget: true,
         },
       ]}
